@@ -24,13 +24,18 @@
     "ember-cli": "2.8.0",
     "ember-cli-app-version": "^1.0.0",
     "ember-cli-babel": "^5.1.6",
+    "ember-cli-bootstrap": "0.0.15",
     "ember-cli-dependency-checker": "^1.2.0",
+    "ember-cli-eg-code-highlight": "^0.1.3",
     "ember-cli-htmlbars": "^1.0.3",
     "ember-cli-htmlbars-inline-precompile": "^0.3.1",
     "ember-cli-inject-live-reload": "^1.4.0",
+    "ember-cli-jquery-ui": "0.0.20",
     "ember-cli-jshint": "^1.0.0",
+    "ember-cli-pagination": "https://github.com/mharris717/ember-cli-pagination.git#68fd53575a840ff1802105d226a98525bd389300",
     "ember-cli-qunit": "^2.1.0",
     "ember-cli-release": "^0.2.9",
+    "ember-cli-sass": "5.5.2",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-test-loader": "^1.1.0",
     "ember-cli-uglify": "^1.2.0",
@@ -39,6 +44,8 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^1.0.1",
+    "highlight.js": "^9.7.0",
+    "install": "^0.8.1",
     "loader.js": "^4.0.1"
   }
 }
